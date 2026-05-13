@@ -1,25 +1,42 @@
-# Myntra SQL Analysis
+Myntra Sales Analysis
 
-## Objective
-Analyze Myntra sales data using SQL to identify sales trends, top categories, order status, and revenue patterns.
+Objective
 
-## Tools Used
+Analyze Myntra sales data using SQL and Excel dashboards to identify sales trends, category performance, order status insights, and state-wise revenue patterns.
+
+Tools Used
+
 - MySQL
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
 - GitHub
 
-## Analysis Performed
-- Total orders
+Analysis Performed
+
+- Total orders analysis
 - Revenue analysis
-- Top categories
-- State-wise sales
-- City-wise revenue
+- Top category analysis
+- State-wise revenue analysis
 - Order status analysis
-- Average order value
+- KPI dashboard creation
 
-## Key Insights
-- Kurta category had highest shipped orders
-- Bengaluru generated highest revenue
+Dashboard Features
+
+- Interactive KPI dashboard
+- Revenue by category visualization
+- Order status tracking
+- State-wise revenue visualization
+- Dynamic slicers and filters
+
+Key Insights
+
+- Set category generated the highest revenue
+- Maharashtra recorded the highest sales revenue
 - Shipped orders dominated total sales
+- Interactive slicers improved dashboard filtering and analysis
 
-## Author
+Author
+
 Himanshu Rai
